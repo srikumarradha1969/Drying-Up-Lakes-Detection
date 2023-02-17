@@ -1,21 +1,7 @@
----
-jupyter:
-  jupytext:
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.14.4
-  kernelspec:
-    display_name: tfgpu36
-    language: python
-    name: tfgpu36
----
-
 # <u> Drying Up Lakes Detection </u>
 
 
-![great_salt_lake_utah.png](attachment:great_salt_lake_utah.png)
+![Images/great_salt_lake_utah.png](attachment:great_salt_lake_utah.png)
 Exposed lake bed in the northern part of the Great Salt Lake in Utah (Source : https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html)
 
 
