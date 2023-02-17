@@ -1,7 +1,7 @@
 # <u> Drying Up Lakes Detection </u>
 
 
-![Images/great_salt_lake_utah.png](attachment:great_salt_lake_utah.png)
+![Images/great_salt_lake_utah.png](./Images/great_salt_lake_utah.png)
 Exposed lake bed in the northern part of the Great Salt Lake in Utah (Source : https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html)
 
 
